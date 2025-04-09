@@ -41,7 +41,7 @@
   <a href="https://en.wikipedia.org/wiki/COBOL" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cobol/cobol-original.svg" alt="COBOL" width="40" height="40"/>
   </a>
-  <!-- CUDA (via Nvidia) -->
+  <!-- CUDA -->
   <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Nvidia_logo.svg/512px-Nvidia_logo.svg.png" alt="CUDA" width="40" height="40"/>
   </a>
@@ -65,4 +65,13 @@
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="GitHub Actions" width="40" height="40"/>
   </a>
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <!-- Bash -->
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+  </a>
 </p>
+
