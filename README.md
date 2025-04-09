@@ -4,7 +4,7 @@
 🎓 Étudiant en première année à <strong>Epitech Moulins</strong><br>
 💻 Développeur <strong>freelance</strong><br>
 </p>
-<a href="https://synaptic-hub.fr/">🧠 Membre de Synaptic-Hub</a>
+<p>🧠 <a href="https://synaptic-hub.fr/"> Membre de Synaptic-Hub</a></p>
 
 ---
 
