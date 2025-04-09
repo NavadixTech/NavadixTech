@@ -78,11 +78,11 @@ Je suis toujours ouvert à de nouvelles collaborations et projets ! N'hésite pa
 
 ---
 
-### 💡 Contributions GitHub
+### 🔥 Contribution GitHub
 
 <p align="center">
   <a href="https://github.com/SachaLamour">
-    <img src="https://contrib.rocks/image?repo=SachaLamour/SachaLamour" alt="Contributions GitHub"/>
+    <img src="https://img.shields.io/github/commit-activity/m/SachaLamour/SachaLamour?style=for-the-badge&label=Commits&logo=github&logoColor=white&color=4c1" alt="Commits"/>
   </a>
 </p>
 
