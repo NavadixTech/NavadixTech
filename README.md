@@ -82,7 +82,7 @@ Je suis toujours ouvert à de nouvelles collaborations et projets ! N'hésite pa
 
 <p align="center">
   <a href="https://github.com/NavadixTech">
-    <img src="https://img.shields.io/github/commit-activity/m/SachaLamour/SachaLamour?style=for-the-badge&label=Commits&logo=github&logoColor=white&color=4c1" alt="Commits"/>
+    <img src="https://img.shields.io/github/commit-activity/m/NavadixTech/NavadixTech?style=for-the-badge&label=Commits&logo=github&logoColor=white&color=4c1" alt="Commits"/>
   </a>
 </p>
 
