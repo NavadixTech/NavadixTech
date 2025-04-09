@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, moi c'est Sacha Lamour</h1>
+<h1 align="center">Salut 👋, moi c'est <strong>Sacha Lamour</strong></h1>
 
 <p align="left">
 🎓 Étudiant en première année à <strong>Epitech Moulins</strong><br>
