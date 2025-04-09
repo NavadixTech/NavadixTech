@@ -3,6 +3,7 @@
 <p align="left">
 🎓 Étudiant en première année à <strong>Epitech Moulins</strong><br>
 💻 Développeur <strong>freelance</strong><br>
+🧬 Membre de <strong>Synaptic-Hub</strong>
 </p>
 
 ---
