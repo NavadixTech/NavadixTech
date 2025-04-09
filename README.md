@@ -3,8 +3,6 @@
 <p align="left">
 🎓 Étudiant en première année à <strong>Epitech Moulins</strong><br>
 💻 Développeur <strong>freelance</strong><br>
-🚀 Passionné par les projets tech ambitieux<br>
-📍 Basé en France
 </p>
 
 ---
@@ -12,7 +10,7 @@
 ## 📫 Me contacter
 
 - 📧 sacha.lamour@epitech.eu  
-- 💼 [LinkedIn à venir](https://www.linkedin.com)
+- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/sacha-lamour-664ba7330/))
 
 ---
 
