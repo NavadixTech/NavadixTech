@@ -77,3 +77,30 @@ Je suis toujours ouvert à de nouvelles collaborations et projets ! N'hésite pa
 </p>
 
 ---
+
+### 📊 Statistiques GitHub
+
+<p align="center">
+  <a href="https://github.com/SachaLamour">
+    <img src="https://github-readme-stats.vercel.app/api?username=SachaLamour&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Statistiques de Sacha Lamour"/>
+  </a>
+  <a href="https://github.com/SachaLamour">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SachaLamour&theme=radical" alt="Streak de Sacha Lamour"/>
+  </a>
+</p>
+
+---
+
+### 🔗 Mes autres liens
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sacha-lamour-664ba7330/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/Sacha_Lamour">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/SachaLamour">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
