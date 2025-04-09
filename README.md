@@ -37,14 +37,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
-  <!-- COBOL -->
-  <a href="https://en.wikipedia.org/wiki/COBOL" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cobol/cobol-original.svg" alt="COBOL" width="40" height="40"/>
-  </a>
-  <!-- CUDA -->
-  <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Nvidia_logo.svg/512px-Nvidia_logo.svg.png" alt="CUDA" width="40" height="40"/>
-  </a>
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -73,5 +65,11 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
   </a>
+</p>
+
+<!-- COBOL & CUDA avec shields.io -->
+<p align="left">
+  <img src="https://img.shields.io/badge/COBOL-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjZmZmIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjMDAwIi8+PHRleHQgeD0iNTAiIHk9IjE1IiBmb250LXNpemU9IjE0IiBmb250LWZhbWlseT0iQ291cmllciBOZXciIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IndoaXRlIj5DT0JPTDwvdGV4dD48L3N2Zz4=" alt="COBOL"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
 </p>
 
