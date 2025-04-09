@@ -10,7 +10,7 @@
 ## 📫 Me contacter
 
 - 📧 sacha.lamour@epitech.eu  
-- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/sacha-lamour-664ba7330/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/sacha-lamour-664ba7330/)
 
 ---
 
