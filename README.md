@@ -2,7 +2,7 @@
 
 ## 📚 À propos de moi
 <p align="left">
-🎓 Étudiant en première année à <strong>Epitech Moulins</strong><br>
+🎓 Étudiant en deuxième année à <strong>Epitech Moulins</strong><br>
 💻 Développeur <strong>freelance</strong><br>
 🧠 Membre de <a href="https://synaptic-hub.fr/">Synaptic-Hub</a>
 </p>
